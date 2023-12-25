@@ -1,3 +1,3 @@
 # ashik-demo
 This is my first Git Repository <br>
-Author - Ashik Ahmed Eshan
+Author - Ashik Ahmed (Eshan)
